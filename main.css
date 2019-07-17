@@ -64,11 +64,16 @@ p{
     font-size: 18px;
     
 }
+
 ul{
     color: black;
     font-size: 18px;
 }
 
+li{
+    color: black;
+    font-size: 18px;
+}
 
 h4 {
     margin: 10px;
@@ -76,7 +81,27 @@ h4 {
     color: blueviolet;
     font-style: arial;
 }
+.h{
+    color: black;
+}
 .button1 {
     text-decoration-line: none;
 
 }
+
+.flex-container {
+    background-color: lightgray;
+    display: flex;
+    flex-direction: row;
+ }
+
+ .flex-container > div {
+    background-color: #f1f1f1; 
+    width: 100%;
+    margin: 1px;
+    text-align: center;
+    line-height: 30px;
+    font-size: 15px;
+    justify-content: center;
+    align-items: center;
+ }
