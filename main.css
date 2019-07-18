@@ -19,6 +19,10 @@
     color: blueviolet;
 
 }
+.trello{
+    color: blueviolet;
+    font-size: 18px;
+}
 
 .menu1{
     float: left;
@@ -138,12 +142,12 @@ h4 {
     text-align: center;
     cursor: pointer;
     width: 100%;
-    font-size: 18px;
+    font-size: 22px;
   }
   
   a {
     text-decoration: none;
-    font-size: 22px;
+    font-size: 18px;
     color: black;
   }
   
